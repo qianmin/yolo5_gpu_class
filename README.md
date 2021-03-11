@@ -24,5 +24,5 @@ Mat uFunction(frame)
 }
 mat->umat 1.5ms
 umat版本函数有很多会被加速5,6倍
-umat-mat 1ms
+umat->mat 1ms
 ```
