@@ -1,5 +1,6 @@
 # yolo5_gpu_class
 yolov5 C++ GPU版本，速度70ms/frame
+其他资源文件看yolo5_class
 
 # net使用cuda加速
 ```
